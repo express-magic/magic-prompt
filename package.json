@@ -1,0 +1,17 @@
+{
+  "name": "magic-prompt",
+  "version": "0.0.1",
+  "private": true,
+  "main": "prompt.js",
+  "dependencies": {
+    "inquirer": "^0.8.0",
+    "magic-log": "git+https://github.com/express-magic/magic-log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/express-magic/magic-prompt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/express-magic/magic-prompt/issues"
+  }
+}
